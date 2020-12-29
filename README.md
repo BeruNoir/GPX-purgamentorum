@@ -1,2 +1,7 @@
 # GPX-purgamentorum
-A real GPX purgamentorum, share, use, copy, what you want
+A real GPX purgamentorum.
+
+### Useful (free) tools
+- GpsMaster
+- OsmAnd~
+- Qgis
