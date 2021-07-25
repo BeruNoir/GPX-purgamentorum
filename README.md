@@ -1,5 +1,5 @@
 # GPX-purgamentorum
-A real GPX purgamentorum.
+Public GPX repository, feel free to do everything creative with those files. 
 
 ### Useful (free) tools
 - GpsMaster
