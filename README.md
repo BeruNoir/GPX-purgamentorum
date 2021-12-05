@@ -10,6 +10,7 @@ Public GPX repository, feel free to do everything creative with those files.
 | Slovakia | [files/Slovakia/][PlOd] |
 | Slovenia | [files/Slovenia/][PlMe] |
 | Switzerland | [files/Switzerland/][PlGa] |
+| Russia | [files/Russia/][PlGz] |
 
 > Extras : I've also created "Reduced mobility" folder because some of my traces can be hiked with disabled (wheelchair) peoples ... Find out inside /extras/
 
@@ -32,3 +33,4 @@ Public GPX repository, feel free to do everything creative with those files.
    [PlOd]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Slovakia/>
    [PlMe]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Slovenia/>
    [PlGa]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Switzerland/>
+   [PlGz]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Russia/>
