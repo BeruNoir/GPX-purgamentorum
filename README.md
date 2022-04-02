@@ -17,7 +17,10 @@ Public GPX repository, feel free to do everything creative with those files.
 
 > Extras : Check out this folder to find European long-distance paths and also "GR" hikes of France.
 
-> How to use : You can download freely the GPX track and also his topographic map attachment. You're always gonna find the duo of two files (png/gpx) to understand what's the hike except.
+### How to use : 
+You can download freely the GPX track and also his topographic map attachment. You're always gonna find the duo of two files (png/gpx) to understand what's the hike except.
+
+![Attachment](https://www.morgandemus.fr/wp-content/uploads/2022/03/image.png "Attachment example")
 
 ### Useful (free) tools
 - [RouteConverter] | RouteConverter is a free, user friendly GPS tool to display, edit, enrich and convert routes, tracks and waypoints.
