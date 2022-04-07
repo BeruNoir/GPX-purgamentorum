@@ -12,6 +12,7 @@ Public GPX repository, feel free to do everything creative with those files.
 | Switzerland | [files/Switzerland/][PlGa] |
 | Russia | [files/Russia/][PlGz] |
 | Ukraine | [files/Ukraine/][PlGm] |
+| Finland | [files/Finland/][PlGk] |
 
 > Reduced mobility : I've also created "Reduced mobility" folder because some of my traces can be hiked with disabled (wheelchair) peoples ... Find out inside /extras/
 
@@ -45,3 +46,4 @@ You can download freely the GPX track and also his topographic map attachment. Y
    [PlGa]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Switzerland/>
    [PlGz]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Russia/>
    [PlGm]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Ukraine/>
+   [PlGd]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Finland/>
