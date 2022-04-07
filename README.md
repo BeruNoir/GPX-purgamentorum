@@ -46,4 +46,4 @@ You can download freely the GPX track and also his topographic map attachment. Y
    [PlGa]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Switzerland/>
    [PlGz]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Russia/>
    [PlGm]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Ukraine/>
-   [PlGd]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Finland/>
+   [PlGk]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Finland/>
