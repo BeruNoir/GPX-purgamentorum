@@ -23,6 +23,9 @@ You can download freely the GPX track and also his topographic map attachment. Y
 
 ![Attachment](https://www.morgandemus.fr/wp-content/uploads/2022/03/image.png "Attachment example")
 
+### Be informed
+Always be careful and plan ahead when hiking. I could not be held responsible in the event of an accident or any inconvenience occurring on your hike. My tracks pass through private properties which can cause you legal problems later. Figure it out.
+
 ### Useful (free) tools
 - [RouteConverter] | RouteConverter is a free, user friendly GPS tool to display, edit, enrich and convert routes, tracks and waypoints.
 - [GpsMaster] | GpsMaster is a free and open source desktop application used to create, view, edit and analyse GPX files. The program is focused toward the analysis of recorded tracks, but also offers features for planning outdoor activities such as backpacking, hiking, and biking. 
