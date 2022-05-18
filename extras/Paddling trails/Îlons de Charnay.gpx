@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gpx version="1.1" creator="GpsMaster 0.64.01" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1">
+<metadata>
+<name>Îlons de Charnay</name>
+<time>2022-05-18T07:53:31Z</time><bounds minlat="46.89641948" minlon="5.00020623" maxlat="46.94254966" maxlon="5.07100582"/>
+</metadata>
+<rte>
+<name>Îlons de Charnay</name>
+<extensions>
+<gpsm:color>0000ccff</gpsm:color>
+</extensions>
+<rtept lat="46.90419001" lon="5.00020623">
+<ele>173.87000000</ele>
+</rtept>
+<rtept lat="46.90432562" lon="5.00052810">
+<ele>174.14000000</ele>
+</rtept>
+<rtept lat="46.90439892" lon="5.00104845">
+<ele>174.05000000</ele>
+</rtept>
+<rtept lat="46.90496334" lon="5.00241101">
+<ele>174.16000000</ele>
+</rtept>
+<rtept lat="46.90559006" lon="5.00390768">
+<ele>173.22000000</ele>
+</rtept>
+<rtept lat="46.90643300" lon="5.00592470">
+<ele>174.56000000</ele>
+</rtept>
+<rtept lat="46.90697540" lon="5.00815630">
+<ele>173.37000000</ele>
+</rtept>
+<rtept lat="46.90707802" lon="5.01028061">
+<ele>173.66000000</ele>
+</rtept>
+<rtept lat="46.90646232" lon="5.01227617">
+<ele>173.00000000</ele>
+</rtept>
+<rtept lat="46.90561938" lon="5.01280189">
+<ele>173.26000000</ele>
+</rtept>
+<rtept lat="46.90516492" lon="5.01303792">
+<ele>173.80000000</ele>
+</rtept>
+<rtept lat="46.90487171" lon="5.01324177">
+<ele>174.71000000</ele>
+</rtept>
+<rtept lat="46.90450521" lon="5.01357436">
+<ele>176.67000000</ele>
+</rtept>
+<rtept lat="46.90413870" lon="5.01399279">
+<ele>178.16000000</ele>
+</rtept>
+<rtept lat="46.90355229" lon="5.01450777">
+<ele>176.53000000</ele>
+</rtept>
+<rtept lat="46.90321509" lon="5.01467943">
+<ele>176.47000000</ele>
+</rtept>
+<rtept lat="46.90281926" lon="5.01481891">
+<ele>176.70000000</ele>
+</rtept>
+<rtept lat="46.90236477" lon="5.01491547">
+<ele>177.16000000</ele>
+</rtept>
+<rtept lat="46.90171969" lon="5.01496911">
+<ele>177.94000000</ele>
+</rtept>
+<rtept lat="46.90095732" lon="5.01532316">
+<ele>174.14000000</ele>
+</rtept>
+<rtept lat="46.90048816" lon="5.01576304">
+<ele>173.80000000</ele>
+</rtept>
+<rtept lat="46.90012162" lon="5.01629949">
+<ele>173.28000000</ele>
+</rtept>
+<rtept lat="46.89988704" lon="5.01678228">
+<ele>172.27000000</ele>
+</rtept>
+<rtept lat="46.89954249" lon="5.01740456">
+<ele>173.43000000</ele>
+</rtept>
+<rtept lat="46.89926392" lon="5.01825213">
+<ele>174.78000000</ele>
+</rtept>
+<rtept lat="46.89869211" lon="5.01964688">
+<ele>174.43000000</ele>
+</rtept>
+<rtept lat="46.89835489" lon="5.02038717">
+<ele>174.02000000</ele>
+</rtept>
+<rtept lat="46.89791503" lon="5.02130985">
+<ele>175.57000000</ele>
+</rtept>
+<rtept lat="46.89762179" lon="5.02223253">
+<ele>176.10000000</ele>
+</rtept>
+<rtept lat="46.89745317" lon="5.02291918">
+<ele>176.59000000</ele>
+</rtept>
+<rtept lat="46.89728456" lon="5.02357364">
+<ele>177.97000000</ele>
+</rtept>
+<rtept lat="46.89721125" lon="5.02401352">
+<ele>179.23000000</ele>
+</rtept>
+<rtept lat="46.89710128" lon="5.02443194">
+<ele>178.90000000</ele>
+</rtept>
+<rtept lat="46.89698398" lon="5.02503276">
+<ele>177.21000000</ele>
+</rtept>
+<rtept lat="46.89670540" lon="5.02574086">
+<ele>177.11000000</ele>
+</rtept>
+<rtept lat="46.89641948" lon="5.02605200">
+<ele>176.84000000</ele>
+</rtept>
+<rtept lat="46.89655877" lon="5.02638459">
+<ele>176.83000000</ele>
+</rtept>
+<rtept lat="46.89677871" lon="5.02670646">
+<ele>178.14000000</ele>
+</rtept>
+<rtept lat="46.89718192" lon="5.02725363">
+<ele>180.99000000</ele>
+</rtept>
+<rtept lat="46.89748983" lon="5.02789736">
+<ele>180.57000000</ele>
+</rtept>
+<rtept lat="46.89780506" lon="5.02847672">
+<ele>177.97000000</ele>
+</rtept>
+<rtept lat="46.89753382" lon="5.03017187">
+<ele>175.77000000</ele>
+</rtept>
+<rtept lat="46.89721858" lon="5.03262877">
+<ele>177.56000000</ele>
+</rtept>
+<rtept lat="46.89734321" lon="5.03403425">
+<ele>178.80000000</ele>
+</rtept>
+<rtept lat="46.89753382" lon="5.03628731">
+<ele>177.90000000</ele>
+</rtept>
+<rtept lat="46.89785638" lon="5.03883004">
+<ele>172.68000000</ele>
+</rtept>
+<rtept lat="46.89855282" lon="5.04106164">
+<ele>171.93000000</ele>
+</rtept>
+<rtept lat="46.89954982" lon="5.04240274">
+<ele>172.35000000</ele>
+</rtept>
+<rtept lat="46.90103795" lon="5.04392624">
+<ele>170.57000000</ele>
+</rtept>
+<rtept lat="46.90224016" lon="5.04577160">
+<ele>171.00000000</ele>
+</rtept>
+<rtept lat="46.90352297" lon="5.04915118">
+<ele>173.79000000</ele>
+</rtept>
+<rtept lat="46.90485705" lon="5.05151153">
+<ele>170.79000000</ele>
+</rtept>
+<rtept lat="46.90587592" lon="5.05269170">
+<ele>171.84000000</ele>
+</rtept>
+<rtept lat="46.90748848" lon="5.05378604">
+<ele>173.87000000</ele>
+</rtept>
+<rtept lat="46.90929156" lon="5.05467653">
+<ele>170.47000000</ele>
+</rtept>
+<rtept lat="46.91078675" lon="5.05444050">
+<ele>169.24000000</ele>
+</rtept>
+<rtept lat="46.91300747" lon="5.05448341">
+<ele>171.99000000</ele>
+</rtept>
+<rtept lat="46.91417276" lon="5.05512714">
+<ele>171.03000000</ele>
+</rtept>
+<rtept lat="46.91610753" lon="5.05599618">
+<ele>176.95000000</ele>
+</rtept>
+<rtept lat="46.91770512" lon="5.05588889">
+<ele>178.14000000</ele>
+</rtept>
+<rtept lat="46.91991823" lon="5.05466580">
+<ele>173.13000000</ele>
+</rtept>
+<rtept lat="46.92148640" lon="5.05331397">
+<ele>173.87000000</ele>
+</rtept>
+<rtept lat="46.92249762" lon="5.05164027">
+<ele>173.94000000</ele>
+</rtept>
+<rtept lat="46.92410968" lon="5.04992366">
+<ele>172.25000000</ele>
+</rtept>
+<rtept lat="46.92584626" lon="5.04861474">
+<ele>174.00000000</ele>
+</rtept>
+<rtept lat="46.92768535" lon="5.04789591">
+<ele>175.31000000</ele>
+</rtept>
+<rtept lat="46.93046952" lon="5.04716635">
+<ele>181.88000000</ele>
+</rtept>
+<rtept lat="46.93174433" lon="5.04716635">
+<ele>180.77000000</ele>
+</rtept>
+<rtept lat="46.93357589" lon="5.04800320">
+<ele>180.94000000</ele>
+</rtept>
+<rtept lat="46.93520227" lon="5.04963398">
+<ele>180.51000000</ele>
+</rtept>
+<rtept lat="46.93797140" lon="5.05227327">
+<ele>180.45000000</ele>
+</rtept>
+<rtept lat="46.93934858" lon="5.05459070">
+<ele>174.43000000</ele>
+</rtept>
+<rtept lat="46.94041807" lon="5.05744457">
+<ele>175.50000000</ele>
+</rtept>
+<rtept lat="46.94128244" lon="5.06130695">
+<ele>175.11000000</ele>
+</rtept>
+<rtept lat="46.94220539" lon="5.06420374">
+<ele>176.78000000</ele>
+</rtept>
+<rtept lat="46.94254966" lon="5.06661773">
+<ele>173.06000000</ele>
+</rtept>
+<rtept lat="46.94227864" lon="5.06873131">
+<ele>172.34000000</ele>
+</rtept>
+<rtept lat="46.94164869" lon="5.06952524">
+<ele>174.69000000</ele>
+</rtept>
+<rtept lat="46.94076968" lon="5.07027626">
+<ele>173.33000000</ele>
+</rtept>
+<rtept lat="46.93959764" lon="5.07029772">
+<ele>172.91000000</ele>
+</rtept>
+<rtept lat="46.93826442" lon="5.06989002">
+<ele>173.06000000</ele>
+</rtept>
+<rtept lat="46.93706302" lon="5.06967545">
+<ele>173.63000000</ele>
+</rtept>
+<rtept lat="46.93580300" lon="5.06939650">
+<ele>172.91000000</ele>
+</rtept>
+<rtept lat="46.93499715" lon="5.06995440">
+<ele>171.18000000</ele>
+</rtept>
+<rtept lat="46.93455759" lon="5.07100582">
+<ele>172.42000000</ele>
+</rtept>
+</rte>
+<extensions>
+<gpsm:color>0000ccff</gpsm:color>
+<gpsm:activity>Paddling</gpsm:activity>
+</extensions></gpx>
