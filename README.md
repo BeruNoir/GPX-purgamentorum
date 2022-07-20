@@ -13,6 +13,7 @@ Public GPX repository, feel free to do everything creative with those files.
 | Russia | [files/Russia/][PlGz] |
 | Ukraine | [files/Ukraine/][PlGm] |
 | Finland | [files/Finland/][PlGk] |
+| Germany | [files/Germany/][PlGnm] |
 
 > Reduced mobility : I've also created "Reduced mobility" folder because some of my traces can be hiked with disabled (wheelchair) peoples ... Find out inside /extras/
 
@@ -50,3 +51,4 @@ Always be careful and plan ahead when hiking. I could not be held responsible in
    [PlGz]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Russia/>
    [PlGm]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Ukraine/>
    [PlGk]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Finland/>
+   [PlGnm]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Germany/>
