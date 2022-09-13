@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns:gpxtpx1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" version="1.1" creator="RouteConverter 2.30">
+    <metadata>
+        <name>À l’écoute du Cerf élaphe</name>
+        <time>2022-09-13T18:36:57.059Z</time>
+        <bounds minlat="47.49179760" minlon="4.97419417" maxlat="47.49179760" maxlon="4.97419417"/>
+    </metadata>
+    <trk>
+        <name>À l’écoute du Cerf élaphe</name>
+        <trkseg>
+            <trkpt lat="47.4917976" lon="4.9741942">
+                <ele>328.6</ele>
+                <name>Position 1</name>
+            </trkpt>
+            <trkpt lat="47.491795" lon="4.974171">
+                <ele>328.6</ele>
+                <time>2022-09-13T18:31:56.000Z</time>
+                <name>Position 2</name>
+            </trkpt>
+            <trkpt lat="47.491623" lon="4.974227">
+                <ele>329.8</ele>
+                <time>2022-09-13T18:32:10.000Z</time>
+                <name>Position 3</name>
+            </trkpt>
+            <trkpt lat="47.491286" lon="4.973348">
+                <ele>329.7</ele>
+                <name>Position 4</name>
+            </trkpt>
+            <trkpt lat="47.49096" lon="4.972737">
+                <ele>329.2</ele>
+                <name>Position 5</name>
+            </trkpt>
+            <trkpt lat="47.490449" lon="4.971902">
+                <ele>331.8</ele>
+                <name>Position 6</name>
+            </trkpt>
+            <trkpt lat="47.490316" lon="4.971614">
+                <ele>332.6</ele>
+                <name>Position 7</name>
+            </trkpt>
+            <trkpt lat="47.490292" lon="4.971325">
+                <ele>331.7</ele>
+                <name>Position 8</name>
+            </trkpt>
+            <trkpt lat="47.489993" lon="4.970773">
+                <ele>331.7</ele>
+                <name>Position 9</name>
+            </trkpt>
+            <trkpt lat="47.489935" lon="4.970696">
+                <ele>331.4</ele>
+                <name>Position 10</name>
+            </trkpt>
+            <trkpt lat="47.489444" lon="4.970282">
+                <ele>331.1</ele>
+                <name>Position 11</name>
+            </trkpt>
+            <trkpt lat="47.488577" lon="4.96947">
+                <ele>332.3</ele>
+                <name>Position 12</name>
+            </trkpt>
+            <trkpt lat="47.487883" lon="4.968835">
+                <ele>336.6</ele>
+                <name>Position 13</name>
+            </trkpt>
+            <trkpt lat="47.487769" lon="4.968593">
+                <ele>338.7</ele>
+                <time>2022-09-13T18:39:37.000Z</time>
+                <name>Position 14</name>
+            </trkpt>
+            <trkpt lat="47.488051" lon="4.968212">
+                <ele>338.4</ele>
+                <name>Position 15</name>
+            </trkpt>
+            <trkpt lat="47.488535" lon="4.967892">
+                <ele>334.7</ele>
+                <name>Position 16</name>
+            </trkpt>
+            <trkpt lat="47.488647" lon="4.967766">
+                <ele>334.1</ele>
+                <name>Position 17</name>
+            </trkpt>
+            <trkpt lat="47.488752" lon="4.967595">
+                <ele>333.7</ele>
+                <name>Position 18</name>
+            </trkpt>
+            <trkpt lat="47.488832" lon="4.967272">
+                <ele>334.2</ele>
+                <name>Position 19</name>
+            </trkpt>
+            <trkpt lat="47.489114" lon="4.96485">
+                <ele>336.2</ele>
+                <name>Position 20</name>
+            </trkpt>
+            <trkpt lat="47.48915" lon="4.964676">
+                <ele>335.3</ele>
+                <name>Position 21</name>
+            </trkpt>
+            <trkpt lat="47.489327" lon="4.964271">
+                <ele>334.6</ele>
+                <name>Position 22</name>
+            </trkpt>
+            <trkpt lat="47.489415" lon="4.964144">
+                <ele>334.3</ele>
+                <name>Position 23</name>
+            </trkpt>
+            <trkpt lat="47.48952" lon="4.964042">
+                <ele>333.6</ele>
+                <name>Position 24</name>
+            </trkpt>
+            <trkpt lat="47.490437" lon="4.96335">
+                <ele>331.7</ele>
+                <name>Position 25</name>
+            </trkpt>
+            <trkpt lat="47.490543" lon="4.963314">
+                <ele>332.3</ele>
+                <time>2022-09-13T18:46:14.000Z</time>
+                <name>Position 26</name>
+            </trkpt>
+            <trkpt lat="47.490542" lon="4.963102">
+                <ele>332.1</ele>
+                <name>Position 27</name>
+            </trkpt>
+            <trkpt lat="47.4902" lon="4.959708">
+                <ele>335.2</ele>
+                <name>Position 28</name>
+            </trkpt>
+            <trkpt lat="47.490146" lon="4.958931">
+                <ele>335.7</ele>
+                <name>Position 29</name>
+            </trkpt>
+            <trkpt lat="47.490139" lon="4.958264">
+                <ele>335.2</ele>
+                <name>Position 30</name>
+            </trkpt>
+            <trkpt lat="47.490155" lon="4.957688">
+                <ele>335.3</ele>
+                <name>Position 31</name>
+            </trkpt>
+            <trkpt lat="47.490245" lon="4.956889">
+                <ele>336.8</ele>
+                <name>Position 32</name>
+            </trkpt>
+            <trkpt lat="47.490331" lon="4.9565">
+                <ele>337.8</ele>
+                <name>Position 33</name>
+            </trkpt>
+            <trkpt lat="47.490449" lon="4.956082">
+                <ele>338.7</ele>
+                <name>Position 34</name>
+            </trkpt>
+            <trkpt lat="47.490892" lon="4.954717">
+                <ele>339.6</ele>
+                <time>2022-09-13T18:54:13.000Z</time>
+                <name>Position 35</name>
+            </trkpt>
+            <trkpt lat="47.491423" lon="4.95341">
+                <ele>344.4</ele>
+                <name>Position 36</name>
+            </trkpt>
+            <trkpt lat="47.492177" lon="4.951457">
+                <ele>344.6</ele>
+                <name>Position 37</name>
+            </trkpt>
+            <trkpt lat="47.49238" lon="4.950835">
+                <ele>344.3</ele>
+                <name>Position 38</name>
+            </trkpt>
+            <trkpt lat="47.492467" lon="4.950363">
+                <ele>345.0</ele>
+                <name>Position 39</name>
+            </trkpt>
+            <trkpt lat="47.492588" lon="4.949276">
+                <ele>348.1</ele>
+                <name>Position 40</name>
+            </trkpt>
+            <trkpt lat="47.492767" lon="4.947048">
+                <ele>353.3</ele>
+                <name>Position 41</name>
+            </trkpt>
+            <trkpt lat="47.492791" lon="4.946536">
+                <ele>353.2</ele>
+                <name>Position 42</name>
+            </trkpt>
+            <trkpt lat="47.492779" lon="4.946296">
+                <ele>353.0</ele>
+                <name>Position 43</name>
+            </trkpt>
+            <trkpt lat="47.49267" lon="4.945685">
+                <ele>352.6</ele>
+                <name>Position 44</name>
+            </trkpt>
+            <trkpt lat="47.492406" lon="4.944706">
+                <ele>352.2</ele>
+                <name>Position 45</name>
+            </trkpt>
+            <trkpt lat="47.492076" lon="4.943218">
+                <ele>357.6</ele>
+                <name>Position 46</name>
+            </trkpt>
+            <trkpt lat="47.491883" lon="4.942262">
+                <ele>359.4</ele>
+                <name>Position 47</name>
+            </trkpt>
+            <trkpt lat="47.491711" lon="4.941058">
+                <ele>360.1</ele>
+                <name>Position 48</name>
+            </trkpt>
+            <trkpt lat="47.491537" lon="4.939105">
+                <ele>361.4</ele>
+                <time>2022-09-13T19:09:06.000Z</time>
+                <name>Position 49</name>
+            </trkpt>
+            <trkpt lat="47.491537" lon="4.939105">
+                <ele>361.4</ele>
+                <time>2022-09-13T18:32:09.000Z</time>
+                <name>Position 50</name>
+            </trkpt>
+            <trkpt lat="47.491568" lon="4.938744">
+                <ele>361.3</ele>
+                <name>Position 51</name>
+            </trkpt>
+            <trkpt lat="47.491674" lon="4.937882">
+                <ele>362.7</ele>
+                <name>Position 52</name>
+            </trkpt>
+            <trkpt lat="47.491667" lon="4.937099">
+                <ele>364.5</ele>
+                <name>Position 53</name>
+            </trkpt>
+            <trkpt lat="47.491645" lon="4.936756">
+                <ele>364.5</ele>
+                <name>Position 54</name>
+            </trkpt>
+            <trkpt lat="47.491602" lon="4.936262">
+                <ele>362.1</ele>
+                <name>Position 55</name>
+            </trkpt>
+            <trkpt lat="47.491377" lon="4.934588">
+                <ele>361.2</ele>
+                <name>Position 56</name>
+            </trkpt>
+            <trkpt lat="47.49113" lon="4.933322">
+                <ele>362.9</ele>
+                <name>Position 57</name>
+            </trkpt>
+            <trkpt lat="47.491051" lon="4.932561">
+                <ele>362.4</ele>
+                <name>Position 58</name>
+            </trkpt>
+            <trkpt lat="47.491044" lon="4.93181">
+                <ele>362.9</ele>
+                <name>Position 59</name>
+            </trkpt>
+            <trkpt lat="47.491058" lon="4.929546">
+                <ele>365.5</ele>
+                <name>Position 60</name>
+            </trkpt>
+            <trkpt lat="47.491029" lon="4.929235">
+                <ele>365.3</ele>
+                <name>Position 61</name>
+            </trkpt>
+            <trkpt lat="47.490949" lon="4.928741">
+                <ele>365.3</ele>
+                <name>Position 62</name>
+            </trkpt>
+            <trkpt lat="47.490727" lon="4.928004">
+                <ele>366.7</ele>
+                <name>Position 63</name>
+            </trkpt>
+            <trkpt lat="47.490601" lon="4.927282">
+                <ele>368.9</ele>
+                <name>Position 64</name>
+            </trkpt>
+            <trkpt lat="47.490507" lon="4.925898">
+                <ele>374.7</ele>
+                <name>Position 65</name>
+            </trkpt>
+            <trkpt lat="47.4905" lon="4.925533">
+                <ele>375.3</ele>
+                <name>Position 66</name>
+            </trkpt>
+            <trkpt lat="47.490514" lon="4.924675">
+                <ele>375.0</ele>
+                <name>Position 67</name>
+            </trkpt>
+            <trkpt lat="47.490456" lon="4.924096">
+                <ele>374.0</ele>
+                <name>Position 68</name>
+            </trkpt>
+            <trkpt lat="47.490333" lon="4.923323">
+                <ele>375.6</ele>
+                <name>Position 69</name>
+            </trkpt>
+            <trkpt lat="47.490297" lon="4.922883">
+                <ele>376.0</ele>
+                <name>Position 70</name>
+            </trkpt>
+            <trkpt lat="47.490297" lon="4.92254">
+                <ele>376.3</ele>
+                <name>Position 71</name>
+            </trkpt>
+            <trkpt lat="47.490329" lon="4.922243">
+                <ele>376.5</ele>
+                <name>Position 72</name>
+            </trkpt>
+            <trkpt lat="47.490568" lon="4.921578">
+                <ele>375.5</ele>
+                <name>Position 73</name>
+            </trkpt>
+            <trkpt lat="47.490601" lon="4.921306">
+                <ele>375.9</ele>
+                <name>Position 74</name>
+            </trkpt>
+            <trkpt lat="47.49058" lon="4.920544">
+                <ele>378.4</ele>
+                <name>Position 75</name>
+            </trkpt>
+            <trkpt lat="47.490521" lon="4.920094">
+                <ele>380.3</ele>
+                <name>Position 76</name>
+            </trkpt>
+            <trkpt lat="47.49042" lon="4.919686">
+                <ele>381.5</ele>
+                <name>Position 77</name>
+            </trkpt>
+            <trkpt lat="47.489952" lon="4.918434">
+                <ele>379.1</ele>
+                <name>Position 78</name>
+            </trkpt>
+            <trkpt lat="47.489826" lon="4.917905">
+                <ele>381.5</ele>
+                <name>Position 79</name>
+            </trkpt>
+            <trkpt lat="47.489734" lon="4.917404">
+                <ele>383.6</ele>
+                <name>Position 80</name>
+            </trkpt>
+            <trkpt lat="47.489423" lon="4.915945">
+                <ele>386.8</ele>
+                <name>Position 81</name>
+            </trkpt>
+            <trkpt lat="47.489299" lon="4.915623">
+                <ele>385.3</ele>
+                <name>Position 82</name>
+            </trkpt>
+            <trkpt lat="47.489166" lon="4.91533">
+                <ele>382.4</ele>
+                <name>Position 83</name>
+            </trkpt>
+            <trkpt lat="47.488912" lon="4.914611">
+                <ele>383.2</ele>
+                <name>Position 84</name>
+            </trkpt>
+            <trkpt lat="47.48842" lon="4.912736">
+                <ele>383.2</ele>
+                <name>Position 85</name>
+            </trkpt>
+            <trkpt lat="47.488318" lon="4.912264">
+                <ele>381.8</ele>
+                <name>Position 86</name>
+            </trkpt>
+            <trkpt lat="47.488136" lon="4.911157">
+                <ele>386.2</ele>
+                <name>Position 87</name>
+            </trkpt>
+            <trkpt lat="47.487313" lon="4.906911">
+                <ele>390.5</ele>
+                <name>Position 88</name>
+            </trkpt>
+            <trkpt lat="47.487187" lon="4.9065">
+                <ele>392.0</ele>
+                <name>Position 89</name>
+            </trkpt>
+            <trkpt lat="47.487008" lon="4.906128">
+                <ele>392.4</ele>
+                <name>Position 90</name>
+            </trkpt>
+            <trkpt lat="47.486643" lon="4.90503">
+                <ele>391.4</ele>
+                <name>Position 91</name>
+            </trkpt>
+            <trkpt lat="47.486447" lon="4.902745">
+                <ele>395.8</ele>
+                <name>Position 92</name>
+            </trkpt>
+            <trkpt lat="47.486375" lon="4.901361">
+                <ele>397.8</ele>
+                <name>Position 93</name>
+            </trkpt>
+            <trkpt lat="47.486411" lon="4.899602">
+                <ele>400.7</ele>
+                <name>Position 94</name>
+            </trkpt>
+            <trkpt lat="47.486324" lon="4.897671">
+                <ele>401.9</ele>
+                <name>Position 95</name>
+            </trkpt>
+            <trkpt lat="47.486266" lon="4.89707">
+                <ele>401.8</ele>
+                <name>Position 96</name>
+            </trkpt>
+            <trkpt lat="47.486186" lon="4.896619">
+                <ele>401.1</ele>
+                <name>Position 97</name>
+            </trkpt>
+            <trkpt lat="47.486056" lon="4.896136">
+                <ele>400.6</ele>
+                <name>Position 98</name>
+            </trkpt>
+            <trkpt lat="47.485928" lon="4.895753">
+                <ele>398.6</ele>
+                <name>Position 99</name>
+            </trkpt>
+            <trkpt lat="47.485773" lon="4.895431">
+                <ele>396.8</ele>
+                <name>Position 100</name>
+            </trkpt>
+            <trkpt lat="47.485545" lon="4.895043">
+                <ele>397.7</ele>
+                <name>Position 101</name>
+            </trkpt>
+            <trkpt lat="47.485048" lon="4.894543">
+                <ele>400.1</ele>
+                <name>Position 102</name>
+            </trkpt>
+            <trkpt lat="47.484693" lon="4.894001">
+                <ele>405.1</ele>
+                <name>Position 103</name>
+            </trkpt>
+            <trkpt lat="47.484388" lon="4.892757">
+                <ele>404.7</ele>
+                <name>Position 104</name>
+            </trkpt>
+            <trkpt lat="47.484352" lon="4.892317">
+                <ele>405.6</ele>
+                <name>Position 105</name>
+            </trkpt>
+            <trkpt lat="47.484391" lon="4.891885">
+                <ele>407.2</ele>
+                <name>Position 106</name>
+            </trkpt>
+            <trkpt lat="47.484468" lon="4.891304">
+                <ele>410.0</ele>
+                <name>Position 107</name>
+            </trkpt>
+            <trkpt lat="47.484623" lon="4.890858">
+                <ele>411.3</ele>
+                <name>Position 108</name>
+            </trkpt>
+            <trkpt lat="47.484935" lon="4.890185">
+                <ele>405.5</ele>
+                <name>Position 109</name>
+            </trkpt>
+            <trkpt lat="47.485164" lon="4.889613">
+                <ele>405.9</ele>
+                <name>Position 110</name>
+            </trkpt>
+            <trkpt lat="47.485234" lon="4.889321">
+                <ele>405.7</ele>
+                <name>Position 111</name>
+            </trkpt>
+            <trkpt lat="47.48529" lon="4.888842">
+                <ele>405.7</ele>
+                <name>Position 112</name>
+            </trkpt>
+            <trkpt lat="47.485299" lon="4.888519">
+                <ele>406.0</ele>
+                <name>Position 113</name>
+            </trkpt>
+            <trkpt lat="47.485281" lon="4.887904">
+                <ele>406.9</ele>
+                <name>Position 114</name>
+            </trkpt>
+            <trkpt lat="47.485245" lon="4.8875">
+                <ele>407.2</ele>
+                <time>2022-09-13T19:21:18.000Z</time>
+                <name>Position 115</name>
+            </trkpt>
+            <trkpt lat="47.485245" lon="4.8875">
+                <ele>407.2</ele>
+                <time>2022-09-13T18:33:41.000Z</time>
+                <name>Position 116</name>
+            </trkpt>
+            <trkpt lat="47.485239" lon="4.887438">
+                <ele>407.4</ele>
+                <time>2022-09-13T18:33:44.000Z</time>
+                <name>Position 117</name>
+            </trkpt>
+            <trkpt lat="47.484753" lon="4.886881">
+                <ele>408.2</ele>
+                <name>Position 118</name>
+            </trkpt>
+            <trkpt lat="47.484344" lon="4.886502">
+                <ele>408.9</ele>
+                <name>Position 119</name>
+            </trkpt>
+            <trkpt lat="47.484135" lon="4.886339">
+                <ele>409.7</ele>
+                <time>2022-09-13T18:35:31.000Z</time>
+                <name>Position 120</name>
+            </trkpt>
+            <trkpt lat="47.483845" lon="4.885988">
+                <ele>412.1</ele>
+                <name>Position 121</name>
+            </trkpt>
+            <trkpt lat="47.483176" lon="4.885096">
+                <ele>413.8</ele>
+                <name>Position 122</name>
+            </trkpt>
+            <trkpt lat="47.482996" lon="4.884815">
+                <ele>417.2</ele>
+                <name>Position 123</name>
+            </trkpt>
+            <trkpt lat="47.482915" lon="4.884522">
+                <ele>419.7</ele>
+                <name>Position 124</name>
+            </trkpt>
+            <trkpt lat="47.482934" lon="4.88319">
+                <ele>423.9</ele>
+                <name>Position 125</name>
+            </trkpt>
+            <trkpt lat="47.483022" lon="4.882216">
+                <ele>426.5</ele>
+                <name>Position 126</name>
+            </trkpt>
+            <trkpt lat="47.483038" lon="4.88187">
+                <ele>427.8</ele>
+                <name>Position 127</name>
+            </trkpt>
+            <trkpt lat="47.482991" lon="4.881335">
+                <ele>428.7</ele>
+                <name>Position 128</name>
+            </trkpt>
+            <trkpt lat="47.482814" lon="4.880295">
+                <ele>428.2</ele>
+                <name>Position 129</name>
+            </trkpt>
+            <trkpt lat="47.482572" lon="4.879267">
+                <ele>424.5</ele>
+                <name>Position 130</name>
+            </trkpt>
+            <trkpt lat="47.482353" lon="4.878639">
+                <ele>424.7</ele>
+                <name>Position 131</name>
+            </trkpt>
+            <trkpt lat="47.482284" lon="4.878139">
+                <ele>426.3</ele>
+                <name>Position 132</name>
+            </trkpt>
+            <trkpt lat="47.482338" lon="4.877625">
+                <ele>429.2</ele>
+                <name>Position 133</name>
+            </trkpt>
+            <trkpt lat="47.482358" lon="4.877116">
+                <ele>430.7</ele>
+                <name>Position 134</name>
+            </trkpt>
+            <trkpt lat="47.482346" lon="4.876127">
+                <ele>433.6</ele>
+                <name>Position 135</name>
+            </trkpt>
+            <trkpt lat="47.482183" lon="4.874207">
+                <ele>439.3</ele>
+                <name>Position 136</name>
+            </trkpt>
+            <trkpt lat="47.482064" lon="4.872044">
+                <ele>439.0</ele>
+                <name>Position 137</name>
+            </trkpt>
+            <trkpt lat="47.482276" lon="4.870823">
+                <ele>436.0</ele>
+                <name>Position 138</name>
+            </trkpt>
+            <trkpt lat="47.482234" lon="4.870403">
+                <ele>440.2</ele>
+                <name>Position 139</name>
+            </trkpt>
+            <trkpt lat="47.48214" lon="4.870182">
+                <ele>442.5</ele>
+                <name>Position 140</name>
+            </trkpt>
+            <trkpt lat="47.481356" lon="4.868867">
+                <ele>445.5</ele>
+                <name>Position 141</name>
+            </trkpt>
+            <trkpt lat="47.480706" lon="4.867956">
+                <ele>447.0</ele>
+                <name>Position 142</name>
+            </trkpt>
+            <trkpt lat="47.480213" lon="4.867345">
+                <ele>448.9</ele>
+                <name>Position 143</name>
+            </trkpt>
+            <trkpt lat="47.479092" lon="4.866406">
+                <ele>451.1</ele>
+                <name>Position 144</name>
+            </trkpt>
+            <trkpt lat="47.478396" lon="4.865449">
+                <ele>450.6</ele>
+                <name>Position 145</name>
+            </trkpt>
+            <trkpt lat="47.477958" lon="4.86502">
+                <ele>450.2</ele>
+                <name>Position 146</name>
+            </trkpt>
+            <trkpt lat="47.4772" lon="4.86451">
+                <ele>454.6</ele>
+                <name>Position 147</name>
+            </trkpt>
+            <trkpt lat="47.476147" lon="4.8641">
+                <ele>452.3</ele>
+                <name>Position 148</name>
+            </trkpt>
+            <trkpt lat="47.47558" lon="4.863477">
+                <ele>455.5</ele>
+                <time>2022-09-13T19:01:55.000Z</time>
+                <name>Position 149</name>
+            </trkpt>
+            <trkpt lat="47.475475" lon="4.863361">
+                <ele>455.3</ele>
+                <name>Position 150</name>
+            </trkpt>
+            <trkpt lat="47.475099" lon="4.862851">
+                <ele>459.9</ele>
+                <name>Position 151</name>
+            </trkpt>
+            <trkpt lat="47.474243" lon="4.862431">
+                <ele>460.3</ele>
+                <name>Position 152</name>
+            </trkpt>
+            <trkpt lat="47.473355" lon="4.861912">
+                <ele>463.7</ele>
+                <name>Position 153</name>
+            </trkpt>
+            <trkpt lat="47.472671" lon="4.860973">
+                <ele>467.2</ele>
+                <name>Position 154</name>
+            </trkpt>
+            <trkpt lat="47.472415" lon="4.860696">
+                <ele>467.0</ele>
+                <name>Position 155</name>
+            </trkpt>
+            <trkpt lat="47.471688" lon="4.860031">
+                <ele>467.4</ele>
+                <name>Position 156</name>
+            </trkpt>
+            <trkpt lat="47.471011" lon="4.85994">
+                <ele>470.7</ele>
+                <name>Position 157</name>
+            </trkpt>
+            <trkpt lat="47.470308" lon="4.859329">
+                <ele>475.3</ele>
+                <name>Position 158</name>
+            </trkpt>
+            <trkpt lat="47.469581" lon="4.858299">
+                <ele>482.6</ele>
+                <name>Position 159</name>
+            </trkpt>
+            <trkpt lat="47.469334" lon="4.857232">
+                <ele>482.8</ele>
+                <name>Position 160</name>
+            </trkpt>
+            <trkpt lat="47.469254" lon="4.856357">
+                <ele>480.3</ele>
+                <name>Position 161</name>
+            </trkpt>
+            <trkpt lat="47.468952" lon="4.855473">
+                <ele>483.1</ele>
+                <name>Position 162</name>
+            </trkpt>
+            <trkpt lat="47.468373" lon="4.85509">
+                <ele>484.8</ele>
+                <name>Position 163</name>
+            </trkpt>
+            <trkpt lat="47.467862" lon="4.855017">
+                <ele>486.5</ele>
+                <name>Position 164</name>
+            </trkpt>
+            <trkpt lat="47.467807" lon="4.854969">
+                <ele>486.8</ele>
+                <time>2022-09-13T19:15:44.000Z</time>
+                <name>Position 165</name>
+            </trkpt>
+            <trkpt lat="47.467803" lon="4.854971">
+                <ele>486.8</ele>
+                <time>2022-09-13T19:15:44.000Z</time>
+                <name>Position 166</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <extensions>
+        <gpsm:color xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">33ff33ff</gpsm:color>
+        <gpsm:activity xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Walking</gpsm:activity>
+    </extensions>
+</gpx>
