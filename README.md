@@ -11,6 +11,7 @@ Public GPX repository, feel free to do everything creative with those files.
 | Slovenia | [files/Slovenia/][PlMe] |
 | Switzerland | [files/Switzerland/][PlGa] |
 | Russia | [files/Russia/][PlGz] |
+| Poland | [files/Poland/][PlGj] |
 | Ukraine | [files/Ukraine/][PlGm] |
 | Finland | [files/Finland/][PlGk] |
 | Germany | [files/Germany/][PlGnm] |
@@ -51,4 +52,5 @@ Always be careful and plan ahead when hiking. I could not be held responsible in
    [PlGz]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Russia/>
    [PlGm]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Ukraine/>
    [PlGk]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Finland/>
+   [PlGj]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Poland/>
    [PlGnm]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Germany/>
