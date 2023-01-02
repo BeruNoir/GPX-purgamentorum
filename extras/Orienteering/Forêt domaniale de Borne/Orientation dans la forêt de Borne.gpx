@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns:gpxtpx1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" version="1.1" creator="RouteConverter 2.30">
+    <metadata>
+        <name>Orientation dans la forêt de Borne</name>
+        <time>2023-01-02T15:52:50.407Z</time>
+        <bounds minlat="47.01392725" minlon="4.92970705" maxlat="47.03888067" maxlon="4.96317834"/>
+    </metadata>
+    <wpt lat="47.0284513" lon="4.9631783">
+        <name>Maison en ruine</name>
+        <extensions>
+            <gpsm:marker xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">org.gpsmaster.marker.WaypointMarker</gpsm:marker>
+        </extensions>
+    </wpt>
+    <wpt lat="47.035678" lon="4.94793">
+        <name>Zone humide</name>
+        <extensions>
+            <gpsm:marker xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">org.gpsmaster.marker.WaypointMarker</gpsm:marker>
+        </extensions>
+    </wpt>
+    <wpt lat="47.0139273" lon="4.9357045">
+        <name>Maison forestière n1</name>
+        <extensions>
+            <gpsm:marker xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">org.gpsmaster.marker.WaypointMarker</gpsm:marker>
+        </extensions>
+    </wpt>
+    <wpt lat="47.0315575" lon="4.9458271">
+        <name>Monument</name>
+        <extensions>
+            <gpsm:marker xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">org.gpsmaster.marker.WaypointMarker</gpsm:marker>
+        </extensions>
+    </wpt>
+    <wpt lat="47.0388807" lon="4.9297071">
+        <name>Maison forestière n2</name>
+        <extensions>
+            <gpsm:marker xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">org.gpsmaster.marker.WaypointMarker</gpsm:marker>
+        </extensions>
+    </wpt>
+    <wpt lat="47.0309944" lon="4.9531281">
+        <name>Ravitaillement</name>
+        <extensions>
+            <gpsm:marker xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">org.gpsmaster.marker.WaypointMarker</gpsm:marker>
+        </extensions>
+    </wpt>
+    <trk>
+        <name>Orientation dans la forêt de Borne</name>
+        <trkseg/>
+    </trk>
+    <extensions>
+        <gpsm:color xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">ff0000ff</gpsm:color>
+    </extensions>
+</gpx>
