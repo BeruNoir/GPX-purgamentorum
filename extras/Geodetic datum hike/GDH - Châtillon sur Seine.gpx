@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns:gpxtpx1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" version="1.1" creator="RouteConverter 2.32">
+    <metadata>
+        <name>GDH - Châtillon sur Seine</name>
+        <time>2023-06-13T18:06:58.729Z</time>
+        <bounds minlat="47.75007830" minlon="4.59205449" maxlat="47.82781093" maxlon="4.76319283"/>
+    </metadata>
+    <wpt lat="47.8096798" lon="4.5920545">
+        <name>Borne en granit gravée IGN</name>
+    </wpt>
+    <wpt lat="47.8278109" lon="4.6296269">
+        <name>Borne en granit gravée IGN (non retrouvée en 2001)</name>
+    </wpt>
+    <wpt lat="47.8026306" lon="4.6381643">
+        <name>Borne en granit gravée IGN (non retrouvé en 2001)</name>
+    </wpt>
+    <wpt lat="47.7744783" lon="4.6182704">
+        <name>Borne en granit gravée IGN - Point vu en place en 2004</name>
+    </wpt>
+    <wpt lat="47.7500783" lon="4.605318">
+        <name>Borne forestiere No 20-21 - Point vu en place en 1951</name>
+    </wpt>
+    <wpt lat="47.763577" lon="4.6655926">
+        <name>Borne en granit gravée IGN - Point vu en place en 2004</name>
+    </wpt>
+    <wpt lat="47.8067687" lon="4.7258619">
+        <name>Borne en granit gravée IGN - Point vu en place en 1985</name>
+    </wpt>
+    <wpt lat="47.7817729" lon="4.7631928">
+        <name>Borne en granit gravée IGN - Point vu en place en 2003</name>
+    </wpt>
+    <extensions>
+        <gpsm:color xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">ff0000ff</gpsm:color>
+    </extensions>
+</gpx>
