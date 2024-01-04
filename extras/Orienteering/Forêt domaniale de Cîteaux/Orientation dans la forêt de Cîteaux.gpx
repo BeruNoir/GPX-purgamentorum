@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns:gpxtpx1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" version="1.1" creator="RouteConverter 3.0">
+    <metadata>
+        <name>Orientation dans la forêt de Cîteaux</name>
+        <time>2024-01-04T09:47:40.314Z</time>
+        <bounds minlat="47.07471070" minlon="5.03496766" maxlat="47.10835524" maxlon="5.08707762"/>
+    </metadata>
+    <wpt lat="47.0805558" lon="5.0349677">
+        <name>Ancienne maison forestière</name>
+        <extensions>
+            <gpsm:marker xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">org.gpsmaster.marker.WaypointMarker</gpsm:marker>
+        </extensions>
+    </wpt>
+    <wpt lat="47.0747107" lon="5.0624013">
+        <name>Réserve biologique 1</name>
+        <extensions>
+            <gpsm:marker xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">org.gpsmaster.marker.WaypointMarker</gpsm:marker>
+        </extensions>
+    </wpt>
+    <wpt lat="47.0766104" lon="5.0486684">
+        <name>Réserve biologique 2</name>
+        <extensions>
+            <gpsm:marker xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">org.gpsmaster.marker.WaypointMarker</gpsm:marker>
+        </extensions>
+    </wpt>
+    <wpt lat="47.1083552" lon="5.0870776">
+        <name>Étang</name>
+        <extensions>
+            <gpsm:marker xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">org.gpsmaster.marker.WaypointMarker</gpsm:marker>
+        </extensions>
+    </wpt>
+    <wpt lat="47.0991683" lon="5.0603843">
+        <name>Trouée humide</name>
+        <extensions>
+            <gpsm:marker xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">org.gpsmaster.marker.WaypointMarker</gpsm:marker>
+        </extensions>
+    </wpt>
+    <trk>
+        <name>Orientation dans la forêt de Cîteaux</name>
+        <trkseg/>
+    </trk>
+    <extensions>
+        <gpsm:color xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">ff0000ff</gpsm:color>
+    </extensions>
+</gpx>
