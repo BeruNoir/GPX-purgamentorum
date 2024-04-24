@@ -18,7 +18,9 @@ Public GPX repository, feel free to do everything creative with those files.
 
 > Reduced mobility : I've also created "Reduced mobility" folder because some of my traces can be hiked with disabled (wheelchair) peoples ... Find out inside /extras/
 
-> Extras : Check out this folder to find European long-distance paths, my personal events and also "GR" hikes of France. Recently I've just created paddling folder.
+> Extras : Check out this folder to find European long-distance paths, my personal events and also "GR" hikes of France. Recently I've just created paddling folder and other cool things !
+
+> KARTA : List of free online maps from the rest of the world. Link : [KARTA.md][PlGny]
 
 ### How to use :
 You can download freely the GPX track and also his topographic map attachment. You're always gonna find the duo of two files (png/gpx) to understand what's the hike except.
@@ -54,3 +56,4 @@ Always be careful and plan ahead when hiking. I could not be held responsible in
    [PlGk]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Finland/>
    [PlGj]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Poland/>
    [PlGnm]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/files/Germany/>
+   [PlGny]: <https://github.com/BeruNoir/GPX-purgamentorum/tree/main/KARTA.md>
